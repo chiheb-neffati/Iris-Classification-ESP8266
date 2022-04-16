@@ -9,8 +9,10 @@
 #include "tensorflow/lite/schema/schema_generated.h"
 #include "tensorflow/lite/version.h"
 
-// Importting our model's data along with the testing data:
+// Importing our model's data along with the testing data:
 #include "Data.h"
+// You can find more about the model making process in the notebook in the "Iris python folder"
+// or in this link : https://github.com/chiheb-neffati/Iris-patern-recognition-and-classification
 
 #include "HandleOutput.h"
 
